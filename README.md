@@ -1,1 +1,3 @@
 # Integrative-Bioinformatics-Project-2026
+
+The aim of this project is to explore how protein interactions relate to gene expression across environments. Our hypothesis is that the number of interactors (the degree) of each protein is related to the differential gene expression across different conditions, including different carbon and nitrogen sources. Thus, we suppose that proteins with a high number or interactors connect several biological processes that respond differently to environmental change, while proteins with lower number of partners will participate in a single process. We also conducted a case-study to investigate further the gene expression related to cellular motility.
